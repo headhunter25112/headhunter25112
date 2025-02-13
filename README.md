@@ -40,6 +40,10 @@
 ### 🌱 What I'm Learning
 - Deep learning techniques  
 - Advanced SQL for analytics  
-- Cloud-based solutions for data storage and modeling  
+- Cloud-based solutions for data storage and modeling
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=headhunter25112&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=headhunter25112&layout=compact&theme=radical) 
 
 
