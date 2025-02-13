@@ -1,4 +1,4 @@
-# Hi there! 👋 I am Harsh Sharam 
+# Hi there! 👋 I am Harsh Sharma
 
 🚀 **Aspiring Data Scientist** | **Data Analyst**  
 🔍 Passionate about solving complex problems using data-driven approaches.  
