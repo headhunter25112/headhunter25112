@@ -23,15 +23,15 @@
 ---
 
 ### 🌟 Featured Projects
-1. **[Concrete Strength Predictor](link-to-project)**  
+1. **[Concrete Strength Predictor]**  
    Predicts the compressive strength of concrete based on its mix composition.  
    - 🛠️ Skills: Python, scikit-learn, regression models  
 
-2. **[Customer Churn Analysis](link-to-project)**  
+2. **[Customer Churn Analysis]**  
    Analyzes customer behavior and identifies factors contributing to churn.  
    - 🛠️ Skills: Python, pandas, classification models  
 
-3. **[Big Mart Sales Prediction](link-to-project)**  
+3. **[Big Mart Sales Prediction]**  
    Forecasts sales of products across multiple outlets.  
    - 🛠️ Skills: Python, regression models  
 
