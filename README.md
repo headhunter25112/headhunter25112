@@ -28,10 +28,11 @@
    - 🛠️ Skills: Python, SQL (BigQuery, MySQL), scikit-learn, XGBoost, classification models, feature engineering, statistical analysis, A/B testing, Tableau, Power BI, Streamlit  
 
 2. **Clustering Countries Based on Socio-Economic Factors**
+
    Segments countries into clusters based on key socio-economic indicators for policy and development insights.  
    - 🛠️ Skills: Python, SQL (BigQuery, MySQL), scikit-learn, K-Means clustering, data preprocessing, statistical modeling, data visualization (Tableau, Power BI), interactive dashboards, Streamlit
 
-3. **Heart Disease Risk Prediction**  
+4. **Heart Disease Risk Prediction**  
    Predicts the likelihood of heart disease based on lifestyle and physiological health factors, deployed as an interactive web application.  
    - 🛠️ Skills: Python, SQL, scikit-learn, logistic regression, decision trees, XGBoost, feature engineering, data preprocessing, statistical analysis, SMOTE (for imbalanced data), data visualization (Matplotlib, Seaborn, Power BI), Streamlit (Web App Deployment)
 
