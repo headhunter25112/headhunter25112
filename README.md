@@ -8,9 +8,10 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harshsharma25)  
-[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://drive.google.com/file/d/1OtVGwOQTVOOuYHjCF7iahfa1bvj1_efh/view](https://docs.google.com/document/d/1fKrP5M9HeQlu1EPa5SbL-knu0GRdJSsgK-hY83gBH1w/edit?tab=t.0#heading=h.gjdgxs))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshsharma25)
+[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://docs.google.com/document/d/1fKrP5M9HeQlu1EPa5SbL-knu0GRdJSsgK-hY83gBH1w/edit?tab=t.0#heading=h.gjdgxs)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsharmachennai@gmail.com)
+
 
 ---
 
